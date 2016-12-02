@@ -10,7 +10,7 @@
  - Run app with `npm test` or `node server/main.js`
  - Run `gulp compile` for compile Typescript to JavaScript
  For Test
-  - Use Postmand to Test with GET, default port `localhost:7777/api/getToken`
+  - Use Postman to Test with GET, default port `localhost:7777/api/getToken`
   OR
   - Use Postman to Test with POST (Purchase or Authorize), default port `localhost:7777/api/purchase`,
   ``` JSON 
