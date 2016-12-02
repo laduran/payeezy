@@ -1,8 +1,8 @@
-### Express, Node, Typescript
+# Express, Node, Typescript
 
-##Usage Instructions
+## Usage Instructions
 
-###To run the app,
+### To run the app,
 
  - Install dependencies with `npm install`
  - Install typings with `tsd install` (If this does not work use tsd reinstall)
