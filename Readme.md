@@ -2,17 +2,19 @@
 
 ## Usage Instructions
 
-### To run the app,
+### To run the app:
 
  - Install dependencies with `npm install`
  - Install typings with `tsd install` (If this does not work use tsd reinstall)
  - Compile app with `gulp compile`
  - Run app with `npm test` or `node server/main.js`
  - Run `gulp compile` for compile Typescript to JavaScript
- For Test
+ 
+ To Test
   - Use Postman to Test with GET, default port `localhost:7777/api/getToken`
   OR
-  - Use Postman to Test with POST (Purchase or Authorize), default port `localhost:7777/api/purchase`,
+  - Use Postman to Test with POST (Purchase or Authorize), default port `localhost:7777/api/purchase`:
+
   ``` JSON 
     `with like this data` : {  
    "method":"credit_card",
