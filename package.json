@@ -16,7 +16,7 @@
     "gulp-live-server": "0.0.29",
     "gulp-replace": "^0.5.4",
     "gulp-typescript": "^2.9.2",
-    "jquery": "^2.1.4",
+    "jquery": ">=3.5.0",
     "open": "latest",
     "typescript": "latest",
     "q": "latest"
